@@ -7,4 +7,7 @@ Applied 6 different machine learning models namely Stochastic Gradient Descent, 
 Comments have been added in all the projects. In case you still not able to understand anything feel free to contact me at:
 shauryaluthra689@gmail.com.
 
-Feel free to clone, download and edit any projects in the repositry
+Feel free to clone, download and edit athis repositry
+
+Titanic Train is the training dataset
+Titanic Test is the test dataset
