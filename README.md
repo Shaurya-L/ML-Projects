@@ -1,4 +1,4 @@
-# ML-Projects
+# Predicting Survival of people in Titanic
 
 The aim of project was to predict the people who survived in the titanic. A dataset consisting of details of the passengers was divided into Training and Test dataset. Machine learning models were build using training dataset. Trained models were then used to see how well the model performs on unseen data. 
 To start with, data exploration was done to check missing data and for identification of important features. Seaborn and matplotlib were used for visualizations. During data preprocessing part, we computed missing values, converted features into numeric ones, grouped values into categories and created few new features. 
